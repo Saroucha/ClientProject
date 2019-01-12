@@ -1,0 +1,50 @@
+body{
+	padding-top: 20px;
+background-color: : white;
+}
+
+
+.headerWrapper{
+
+		position: relative;
+		padding:0;
+		padding-left: 10px;
+		margin-left:30px;
+		margin:0;
+		overflow:hidden;
+		height:200px;
+
+		background-image: url(../images/logo.png);
+		background-repeat: no-repeat;
+		background-size: 65% 180px;
+		background-position: top left;
+
+
+
+}
+
+.img-thumb {
+	width: auto;
+	height: 200px;
+}
+
+
+
+img.details{
+	width: 90%;
+	margin: 15px auto;
+
+}
+.table-auto{
+	width: auto;
+	margin: 0 auto;
+}
+#search{
+
+	float: right;
+	padding-right: 18px;
+	line-height: 12px;
+
+
+	margin-top: 5%;
+}
